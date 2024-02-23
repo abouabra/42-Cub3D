@@ -3,7 +3,7 @@
 ## Description
 
 Cub3D is a project that aims to create a 3D game using the raycasting technique. The project was developed using the C language and the Codam 42MLX library.
-The Game is inspired by the world-famous game Wolfenstein 3D, which was developed by id Software in 1992.
+The Game is inspired by the world-famous game `Wolfenstein 3D`, which was developed by id Software in 1992.
 The Game is a maze game where the player has to find the exit while avoiding the enemies.
 you can fight the enemies using the gun that you have, but be careful, you have limited ammo.
 
@@ -20,11 +20,11 @@ brew install glew
 
 1. Clone the repository
 ```bash
-git clone https://github.com/abouabra/Cub3D.git
+git clone https://github.com/abouabra/42-Cub3D.git
 ```
 2. Navigate to the project folder
 ```bash
-cd Cub3D
+cd 42-Cub3D
 ```
 3. Run the make command
 ```bash
@@ -56,12 +56,11 @@ you can move the camera using the arrow keys or the mouse.
 
 ## Screenshots
 
-![Screenshot 1](ScreenShots/level_2-min.png)
+![Screenshot 1](ScreenShots/image_1-min.png)
 
-![Screenshot 2](ScreenShots/level_5-min.png)
+![Screenshot 3](ScreenShots/image_3-min.png)
 
-![Screenshot 3](ScreenShots/level_8-min.png)
-
+![Screenshot 4](ScreenShots/image_4-min.png)
 
 ## Final Note
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
